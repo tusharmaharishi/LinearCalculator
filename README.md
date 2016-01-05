@@ -1,6 +1,6 @@
 # LinearCalculator
 <html>
 <body>
-This is a linear algebra calculator.
+This is a Linear Algebra calculator.
 </body>
 </html>

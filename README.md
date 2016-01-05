@@ -10,5 +10,5 @@ new2
 </body>
 new3
 new3
-
+<b>bold!</b>
 </html>

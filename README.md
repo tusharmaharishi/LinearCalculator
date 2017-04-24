@@ -2,14 +2,7 @@
 <html>
 <body>
 This is a Linear Algebra calculator.
-Hi! From Papa!
-Test!
-rawrrawr
-new
-new2
+<br>
+<p> It is capable of computing various functions such as markov chains, LDU factorization, row reduction, matrix multiplication, determinant calculation, and more. </p>
 </body>
-new3
-new3
-<b>bold!</b>
-<i>italics!</i>
 </html>
